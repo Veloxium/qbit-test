@@ -71,7 +71,12 @@ function Login() {
         </form>
         <p className="text-center text-sm mt-4">
           Don't have an account?{" "}
-          <a href="/register" className="text-blue-500 hover:underline">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://github.com/Veloxium/qbit-test"
+            className="text-blue-500 hover:underline"
+          >
             Check Repo
           </a>
         </p>
