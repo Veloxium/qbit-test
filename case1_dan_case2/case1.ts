@@ -80,3 +80,4 @@ console.log("1. Buah yang dimiliki Andi:", fruitNames);
 console.log("2. Jumlah wadah:", wadahCount);
 console.log("  Isi masing-masing wadah:", wadahContents);
 console.log("3. Total stock per wadah:", stockPerWadah);
+console.log("4. Ada duplikasi fruitId dan Nama buah tidak konsisten.");
